@@ -1,4 +1,3 @@
 <template>
-    <h1>this is Home page</h1>
+    <h1>this is home page</h1>
 </template>
-<script></script>
