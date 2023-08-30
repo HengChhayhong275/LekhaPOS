@@ -245,7 +245,7 @@
 
                             <!-- begin pos table  -->
                             <!-- h-96  scrollbar-thick scrollbar-thumb-blue-500 scrollbar-track-blue-100  -->
-                            <div class="order-container py-0 px-5  overflow-auto " v-if="order.length > 0">
+                            <div class="order-container py-0 px-5  overflow-auto scrollbar-thick scrollbar-thumb-blue-500 scrollbar-track-blue-100" v-if="order.length > 0">
 								<div class="order-list py-3 h-32 px-0 m-0 relative flex justify-between" v-for="order in order" :key="order.id">
 									<div class="col-span-9 p-0 ">
 										<div class="flex w-52">
